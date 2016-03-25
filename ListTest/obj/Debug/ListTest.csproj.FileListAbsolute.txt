@@ -1,0 +1,9 @@
+E:\Git\Exam1\ExamProject\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+E:\CodeWithTests1\ListTest\bin\Debug\ListTest.dll
+E:\CodeWithTests1\ListTest\bin\Debug\ListTest.pdb
+E:\CodeWithTests1\ListTest\bin\Debug\ExamProject.exe
+E:\CodeWithTests1\ListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\CodeWithTests1\ListTest\bin\Debug\ExamProject.pdb
+E:\CodeWithTests1\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+E:\CodeWithTests1\ListTest\obj\Debug\ListTest.dll
+E:\CodeWithTests1\ListTest\obj\Debug\ListTest.pdb

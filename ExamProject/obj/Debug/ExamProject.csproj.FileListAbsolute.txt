@@ -1,0 +1,9 @@
+E:\Git\Exam1\ExamRepo\ExamProject\bin\Debug\ExamProject.exe.config
+E:\Git\Exam1\ExamRepo\ExamProject\obj\Debug\ExamProject.csprojResolveAssemblyReference.cache
+E:\Git\Exam1\_ExamRepo\ExamProject\bin\Debug\ExamProject.exe.config
+E:\CodeWithTests1\ExamProject\bin\Debug\ExamProject.exe.config
+E:\CodeWithTests1\ExamProject\bin\Debug\ExamProject.exe
+E:\CodeWithTests1\ExamProject\bin\Debug\ExamProject.pdb
+E:\CodeWithTests1\ExamProject\obj\Debug\ExamProject.csprojResolveAssemblyReference.cache
+E:\CodeWithTests1\ExamProject\obj\Debug\ExamProject.exe
+E:\CodeWithTests1\ExamProject\obj\Debug\ExamProject.pdb
